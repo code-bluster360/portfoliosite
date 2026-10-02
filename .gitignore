@@ -1,0 +1,5 @@
+# cPanel upload bundle — rebuild it from the contents of dist/
+*.zip
+
+# local editor / preview tooling
+.claude/
